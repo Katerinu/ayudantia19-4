@@ -1,0 +1,6 @@
+@PruebaFormativa_HostAddress = http://localhost:5206
+
+GET {{PruebaFormativa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
